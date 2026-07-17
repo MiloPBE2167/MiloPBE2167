@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Khanh 👋
 
-<!--
-**MiloPBE2167/MiloPBE2167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS @ University of South Florida '29 (GPA 4.0), minor in Math.
+I like ML best when it has to survive production.
 
-Here are some ideas to get you started:
+**Recently:** AI Engineering Intern @ FPT Play — shipped a Thompson
+Sampling re-ranking layer serving 800K+ user profiles (Airflow,
+ClickHouse, Milvus, Redis).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Building:**
+- 🍵 [brewdesk-app](link) — café discovery platform (Next.js, Supabase)
+- 🏗️ [beam-damage-localization](link) — XGBoost for structural health
+  monitoring, 96.2% acc
+- 👥 VISAhouse — community platform backend (NestJS, Prisma)
+
+**Stack:** Python · C++ · SQL · TypeScript | XGBoost · scikit-learn |
+ClickHouse · PostgreSQL · Airflow
+
+📫 doquockhanh210607@gmail.com · [LinkedIn](link)
