@@ -16,4 +16,4 @@ ClickHouse, Milvus, Redis).
 **Stack:** Python · C++ · SQL · TypeScript | XGBoost · scikit-learn |
 ClickHouse · PostgreSQL · Airflow
 
-📫 doquockhanh210607@gmail.com · [LinkedIn](link)
+📫 doquockhanh210607@gmail.com · [LinkedIn](https://www.linkedin.com/in/khanhquocdo/)
