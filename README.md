@@ -4,7 +4,7 @@ CS @ University of South Florida '29 (GPA 4.0), minor in Math.
 I like ML best when it has to survive production.
 
 **Recently:** AI Engineering Intern @ FPT Play — shipped a Thompson
-Sampling re-ranking layer serving 800K+ user profiles (Airflow,
+Sampling re-ranking layer serving ~2M+ user profiles daily (Airflow,
 ClickHouse, Milvus, Redis).
 
 **Building:**
