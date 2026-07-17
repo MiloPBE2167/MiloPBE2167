@@ -8,8 +8,8 @@ Sampling re-ranking layer serving 800K+ user profiles (Airflow,
 ClickHouse, Milvus, Redis).
 
 **Building:**
-- 🍵 [brewdesk-app](link) — café discovery platform (Next.js, Supabase)
-- 🏗️ [beam-damage-localization](link) — XGBoost for structural health
+- 🍵 [brewdesk-app](https://github.com/MiloPBE2167/brewdesk-app) — café discovery platform (Next.js, Supabase)
+- 🏗️ [beam-damage-localization](https://github.com/kietcoderlor/beam-damage-localization) — XGBoost for structural health
   monitoring, 96.2% acc
 - 👥 VISAhouse — community platform backend (NestJS, Prisma)
 
